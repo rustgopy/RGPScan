@@ -1,0 +1,10 @@
+# dependencies
+/vendor
+/.idea
+/static
+/assets
+/RGPScan
+/RGPScanMacAmd64
+/RGPScanMacArm64
+/RGPScanLinuxArm64
+/readme-local.md

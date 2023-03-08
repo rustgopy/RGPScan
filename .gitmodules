@@ -1,0 +1,3 @@
+[submodule "config/probe/pocs/nuclei"]
+	path = config/probe/pocs/nuclei
+	url = https://github.com/projectdiscovery/nuclei-templates

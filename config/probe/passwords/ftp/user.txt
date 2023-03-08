@@ -1,0 +1,9 @@
+anonymous
+ftp
+admin
+www
+web
+root
+db
+wwwroot
+data

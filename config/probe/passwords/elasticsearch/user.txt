@@ -1,0 +1,7 @@
+root
+sa
+scott
+default
+admin
+daemon
+user
