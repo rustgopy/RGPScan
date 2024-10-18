@@ -305,7 +305,7 @@ Flags:
 - 微信：rustgopy
 - Q Q：1780316635
 - 邮箱：thznote@qq.com
-- 博客：www.rustgopy.com
+- 博客：rustgopy.com
 - GitHub：github.com/rustgopy
 
 #### 七、我的媒体
